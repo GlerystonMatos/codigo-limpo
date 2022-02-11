@@ -2,7 +2,8 @@ program Exemplos;
 
 uses
   Vcl.Forms,
-  NomesSignificativos in 'NomesSignificativos.pas';
+  NomesSignificativos in 'NomesSignificativos.pas',
+  Funcoes in 'Funcoes.pas';
 
 {$R *.res}
 
